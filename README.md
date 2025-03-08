@@ -1,18 +1,10 @@
 # mall-admin-web
 
 ## 前言
+为自己的手机店改造开源项目
+二手机 erp系统，带会员系统，和仓储系统
 
-该项目为前后端分离项目的前端部分，后端项目`mall`地址：[传送门](https://github.com/macrozheng/mall)。
 
-## 项目介绍
-
-`mall-admin-web`是一个电商后台管理系统的前端项目，基于Vue+Element实现。主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
-
-### 项目演示
-
-项目在线演示地址：[http://www.macrozheng.com/admin/](http://www.macrozheng.com/admin/)  
-
-![后台管理系统功能演示](http://img.macrozheng.com/mall/project/mall_admin_show.png)
 
 ### 技术选型
 
